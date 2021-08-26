@@ -62,7 +62,7 @@ ORDER BY c.title;
 ```
 
 ```buildoutcfg
-[('Kate Bush,')]
+[('Kate Bush Remastered Part I,')]
 ```
 
 6. Название альбомов, в которых присутствуют исполнители более 1 жанра;
